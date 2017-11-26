@@ -18,7 +18,7 @@ Additional Features of this Dataset:
 $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbylxqt9epils1onsglyu2kere3.gz
 
 ### Download Stimuli used in the Attention Allocation Aid for Visual Search (2017) paper
-$ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/vqfvrijvf3b08uqzxhjdys833camh7it.gz
+$ wget -v -O AAAD_Stimuli.tgz -L https://ucsb.box.com/shared/static/vqfvrijvf3b08uqzxhjdys833camh7it.gz
 
 ------
 
