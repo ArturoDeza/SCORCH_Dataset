@@ -13,7 +13,6 @@ Additional Features of this Dataset:
 * Targets with and without weapon for friend and foe discrimination tasks.
 * Scenes with target Present and Scenes with target Absent.
 * Multiple Scene types with varying level of contrast (Night/Day time).
-* Annotations (coming soon!)
 
 ### Download RAW Video Dataset
 $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbylxqt9epils1onsglyu2kere3.gz
