@@ -22,6 +22,7 @@ $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbyl
  Coming Soon!
 
 If you use the SCORCH Dataset please cite:
+------
 
 *@inproceedings{deza2017attention,*  
 *title={Attention Allocation Aid for Visual Search},*  
