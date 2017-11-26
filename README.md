@@ -14,7 +14,13 @@ $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbyl
 
 The Following public repository contains all the RAW stimuli regarding multiple papers that use the SCORCH Dataset.These papers include:
 
-Attention Allocation Aid for Visual Search. Deza, Peters, Taylor, Surana & Eckstein. ACM CHI. 2017.
+If you use the SCORCH Dataset please cite:
 
-Can Peripheral Representations improve Clutter Metrics in Complex SceneS? Deza & Eckstein. NIPS. 2016.
-
+*@inproceedings{deza2017attention,
+  title={Attention Allocation Aid for Visual Search},
+  author={Deza, Arturo and Peters, Jeffrey R and Taylor, Grant S and Surana, Amit and Eckstein, Miguel P},
+  booktitle={Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems},
+  pages={220--231},
+  year={2017},
+  organization={ACM}
+}*
