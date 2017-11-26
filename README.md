@@ -15,13 +15,14 @@ Additional Features of this Dataset:
 * Multiple Scene types with varying level of contrast (Night/Day time).
 * Annotations (coming soon!)
 
-# Download RAW Video Dataset
+### Download RAW Video Dataset
 $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbylxqt9epils1onsglyu2kere3.gz
 
 ### Download Stimuli used in the Attention Allocation Aid for Visual Search (2017) paper
  Coming Soon!
 
 If you use the SCORCH Dataset please cite:
+
 ------
 
 *@inproceedings{deza2017attention,*  
