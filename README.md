@@ -21,8 +21,6 @@ $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbyl
 # Download Stimuli used in the Attention Allocation Aid for Visual Search (2017) paper
  Coming Soon!
 
-The Following public repository contains all the RAW stimuli regarding multiple papers that use the SCORCH Dataset.These papers include:
-
 If you use the SCORCH Dataset please cite:
 
 *@inproceedings{deza2017attention,*  
