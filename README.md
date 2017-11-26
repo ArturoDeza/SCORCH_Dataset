@@ -1,9 +1,9 @@
 ![SCORCH_Splash](Stimuli_TPWP.png)
 
 # SCORCH_Dataset
-This dataset was created for the purpose of having complex visual search task in a more controlled environment. Analogous, to classic visual search tasks where the goal is to find a Gabor (target) in white/pink noise (background), this dataset provides a riched class of stimuli where the target is a person either armed or unarmed, in a real-life scene simulated background. Backgrounds were created with a computer graphics engine propiertary from NASA Ames Research Center.
+This dataset was created for the purpose of having complex visual search stimuli under controlled conditions. Analogous, to classic visual search tasks where the goal is to find a Gabor (target) in white/pink noise (background), this dataset provides a rich class of stimuli where the target is a person either armed or unarmed, in a scene background from an aerial point of view. Backgrounds were created with a computer graphics engine propiertary from NASA Ames Research Center.
 
-The goal of having subjects with and without weapons (beyond having an obvious surveillance scenario simulation case) is to enable more complex visual search tasks where the target can either be armed or unarmed and the distractors can be either be unarmed or armed respectively. In addition, experimental subjects that perform the task find the stimuli more natural than performing search of a Gabor signal in a noise background -- although this basic level of research is still of tremendous importance in Vision Science, and should not be ignored.
+The goal of having targets (people) with and without weapons, beyond having an application to surveillance scenario tasks, is to enable more complex visual search experiments where the target can either be armed/unarmed and the distractors can either be unarmed/armed respectively. The hope of this stimuli is also to have subjects perform this task while finding the stimuli more natural than performing search of a Gabor signal in a noise background. Benchmarking visual search tasks & models with this dataset is encouraged.
 
 # Download RAW Video Dataset
 $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbylxqt9epils1onsglyu2kere3.gz
