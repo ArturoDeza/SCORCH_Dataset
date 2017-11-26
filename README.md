@@ -20,9 +20,9 @@ $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbyl
 ### Download Stimuli used in the Attention Allocation Aid for Visual Search (2017) paper
  Coming Soon!
 
-If you use the SCORCH Dataset please cite:
-
 ------
+
+If you use the SCORCH Dataset please cite:
 
 *@inproceedings{deza2017attention,*  
 *title={Attention Allocation Aid for Visual Search},*  
