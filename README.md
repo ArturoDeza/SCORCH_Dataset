@@ -16,8 +16,7 @@ The Following public repository contains all the RAW stimuli regarding multiple 
 
 If you use the SCORCH Dataset please cite:
 
-*@inproceedings{deza2017attention,*
-
+*@inproceedings{deza2017attention,*  
 *title={Attention Allocation Aid for Visual Search},*
 
 *author={Deza, Arturo and Peters, Jeffrey R and Taylor, Grant S and Surana, Amit and Eckstein, Miguel P},*
