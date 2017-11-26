@@ -1,4 +1,4 @@
-![SCORCH_Splash](Stiumuli_TPWP.png)
+![SCORCH_Splash](Stimuli_TPWP.png)
 
 # SCORCH_Dataset
 This dataset was created for the purpose of having complex visual search task in a more controlled environment. Analogous, to classic visual search tasks where the goal is to find a Gabor (target) in white/pink noise (background), this dataset provides a riched class of stimuli where the target is a person either armed or unarmed, in a real-life scene simulated background. Backgrounds were created with a computer graphics engine propiertary from NASA Ames Research Center.
