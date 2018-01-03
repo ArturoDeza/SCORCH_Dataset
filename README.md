@@ -20,6 +20,8 @@ $ wget -v -O SCORCH_Raw_Data.tgz -L https://ucsb.box.com/shared/static/h2xc3fbyl
 ### Download Stimuli used in the Attention Allocation Aid for Visual Search (2017) paper
 $ wget -v -O AAAD_Stimuli.tgz -L https://ucsb.box.com/shared/static/vqfvrijvf3b08uqzxhjdys833camh7it.gz
 
+More documentation such as target labels and (x,y) coordinates coming soon!
+
 ------
 
 If you use the SCORCH Dataset please cite:
